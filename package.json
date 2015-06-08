@@ -1,7 +1,7 @@
 {
   "name": "@dpwolfe/dos2unix",
   "description": "A Node.js module to convert text files with DOS line breaks to Unix line breaks, i.e. like using `dos2unix`.",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "homepage": "https://github.com/JamesMGreene/node-dos2unix",
   "author": "James M. Greene <james.m.greene@gmail.com> (http://jamesgreene.net/)",
   "repository": {
